@@ -21,3 +21,8 @@ Moreover, this code is also the experiment code of the IJCAI'23 paper *[Reducing
 }
 ```
 
+## Reproduce the results
+
+The experiment codes are in `examples/task/` directory.
+
+**Notice** that the codes in `examples/sparse/` are legacy scripts and contain errors, just ignore them!
